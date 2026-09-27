@@ -1,0 +1,33 @@
+[
+  {
+    "id": "log-1788881606862-qmop",
+    "timestamp": "2026-09-08T15:33:26.862Z",
+    "recipient": "test@example.com",
+    "subject": "Confirmación de Reserva en Café Gaudí",
+    "reservationCode": "GAUDI-TEST",
+    "status": "sin_configuracion",
+    "provider": "Ethereal Mail (Bandeja de prueba interactiva)",
+    "messageId": "<0ee5aae5-3fad-b54d-cba7-4790f1539b88@cafegaudi.com>",
+    "previewUrl": "https://ethereal.email/message/aqAqx6pIpkHSOc24aqAqx94vWvYlxnEfAAAAAedXqTB2ZWCyqBHJQYGRIN0"
+  },
+  {
+    "id": "log-1788711139351-9gqt",
+    "timestamp": "2026-09-06T16:12:19.351Z",
+    "recipient": "nordinmm28@gmail.com",
+    "subject": "¡Reserva Confirmada! Gastro Café Gaudí - #GAUDI-9988",
+    "reservationCode": "GAUDI-9988",
+    "status": "ethereal",
+    "provider": "Ethereal Mail (Bandeja de prueba interactiva)",
+    "messageId": "<516fa6b1-9075-aaf6-2dfe-1daebc09cb31@gastrocafegaudi.com>",
+    "previewUrl": "https://ethereal.email/message/ap2Q3Dks6awX7F6yap2Q5N4vWvYlxbwuAAAAAofiiJNWGL049nfquaKfXEc"
+  },
+  {
+    "id": "test-1788711132794",
+    "to": "nordinmm28@gmail.com",
+    "subject": "🧪 Prueba de Envío de Email - Gastro Café Gaudí (16:12:11)",
+    "provider": "Ethereal Test Mail",
+    "status": "sent",
+    "timestamp": "2026-09-06T16:12:12.794Z",
+    "previewUrl": "https://ethereal.email/message/ap2Q3Dks6awX7F6yap2Q3IIuM2RB1AavAAAAAZQZRy0qZEZbMTM-zhi2zQs"
+  }
+]

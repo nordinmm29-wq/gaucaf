@@ -1,0 +1,6 @@
+{
+  "name": "Café Gaudí",
+  "description": "Café Gaudí en Carrer Germans Thos i Codina 20, Mataró. Especialistas en café de autor, focaccias artesanas, desayunos, tapas de mercado y terraza al aire libre. ¡Reserva tu mesa!",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
